@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color:hsl(225, 100%, 94%); ;
+       
+}
+
+.rtx{
+    
+    border: 1px solid white;
+    width: 330px;
+    height: 530px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+     border-radius: 15px;
+    background-color: white;
+    margin-bottom:30px;}
+
+.content{
+    text-align: center;
+}
+
+.img-qr{
+    display: block;
+    margin: auto;
+    width:300px;
+    padding: 12px;
+    border-radius: 25px;
+}
+
+.improve{
+    text-align: center;
+    color:  hsl(218, 44%, 22%) ;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+.scan{
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+     font-family: 'Outfit', sans-serif;;
+    font-weight: 400;} 
